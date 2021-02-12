@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="test">
     <title>Test</title>
-    <shortdesc>Ceci est un test github</shortdesc>
+    <shortdesc>Ceci est un test github : version 2</shortdesc>
     <conbody>
         <p></p>
     </conbody>
